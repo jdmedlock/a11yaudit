@@ -51,13 +51,13 @@ h6, .h6 {
 }
 .blog-nav-item:hover,
 .blog-nav-item:focus {
-  color: #fff;
+  color: rgb(78, 78, 78);
   text-decoration: none;
 }
 
 /* Active state gets a caret at the bottom */
 .blog-nav .active {
-  color: #fff;
+  color: color: rgb(78, 78, 78);
 }
 .blog-nav .active:after {
   position: absolute;
